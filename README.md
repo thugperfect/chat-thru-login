@@ -1,4 +1,6 @@
 # chat-thru-login
 login page for chatThru
 
-No DB connect
+DB connected!
+
+bugs has to be cleared...
